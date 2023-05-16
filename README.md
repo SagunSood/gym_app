@@ -1,2 +1,7 @@
-# gym_app
+## Gym App
+
 Gym App for frappe
+
+#### License
+
+MIT
