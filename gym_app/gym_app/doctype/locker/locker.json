@@ -96,7 +96,7 @@
  "links": [],
  "modified": "2022-12-09 01:21:18.342280",
  "modified_by": "Administrator",
- "module": "Frappe Gym",
+ "module": "Gym App",
  "name": "Locker",
  "naming_rule": "By fieldname",
  "nsm_parent_field": "parent_locker",
